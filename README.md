@@ -55,3 +55,4 @@ Feel free to check the issues page.
 
 📝 License
 This project is Open Source.
+.
