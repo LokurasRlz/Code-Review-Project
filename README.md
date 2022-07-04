@@ -37,8 +37,6 @@ In this project, I set up a "Hello world" repository. No complex coding was requ
 
 
 
-## Original Author of the Code:
-
 👤 **Matias Aguirre**
 
 -GitHub: @lokurasrlz
